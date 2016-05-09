@@ -4,7 +4,7 @@
 # python3 1_load_image.py <image_path>
 #
 # Licensed under the MIT License (MIT)
-# Copyright (c) 2014 Eder Perez
+# Copyright (c) 2016 Eder Perez
 import cv2
 import numpy as np
 import sys

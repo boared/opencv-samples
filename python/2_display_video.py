@@ -4,7 +4,7 @@
 #    or: python3 2_display_video.py CAMERA_INDEX
 #
 # Licensed under the MIT License (MIT)
-# Copyright (c) 2014 Eder Perez
+# Copyright (c) 2016 Eder Perez
 import cv2
 import numpy as np
 import sys
